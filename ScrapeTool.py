@@ -142,7 +142,7 @@ def main():
     # gets the current time
     current_time = time()
     # the website to scrape
-    url_list = connect("catalog.champlain.edu")
+    url_list = connect("[INSERT URL HERE]")
     # opens/writes/closes the db file
     create_db(path, url_list, current_time)
 
