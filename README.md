@@ -2,21 +2,6 @@
 
 This Python script scrapes a specified website for anchor tags in the root directory. It then checks if a specified database exists. If the database doesn't exist, it creates it, and then writes the tags along with the current timestamp.
 
-Certainly! Here's a README.md file for your project:
-
-```markdown
-# Website Scraper and Database Writer
-
-Author: Mike Solie
-Date: 02/24/2023
-Version: 2
-
----
-
-## Description
-
-This Python script scrapes a specified website for anchor tags in the root directory. It then checks if a specified database exists. If the database doesn't exist, it creates it, and then writes the tags along with the current timestamp.
-
 ## Dependencies
 
 - Python 3.x
